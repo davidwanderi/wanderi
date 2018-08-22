@@ -1,8 +1,8 @@
 /*
  * Record.cpp
  *
- *  Created on: Nov 5, 2017
- *      Author: Curtis
+ * 
+ *    
  */
 #define _CRT_SECURE_NO_DEPRECATE
 
