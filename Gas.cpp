@@ -1,6 +1,6 @@
 /*
  *  Created on: Jun 9, 2018
- *      Author: 310299643
+ *      
  */
 
 #include "Gas.h"
